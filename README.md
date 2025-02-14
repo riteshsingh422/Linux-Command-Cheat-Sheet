@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" width="400" alt="ritesh singh coding" src="https://magiccopy.xyz/assets/images/hadder.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imraja594&label=Profile%20views&color=0e75b6&style=flat" alt="imraja594" /> </p>
 
 
 | No. | Topic                                                                   |
