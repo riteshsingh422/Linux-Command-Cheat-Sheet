@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" width="400" alt="ritesh singh coding" src="[https://giphy.com/gifs/4N5ddOOJJ7gtKTgNac](https://tenor.com/en-GB/view/linux-tux-rotate-gif-24807752)">
+<img align="right" width="400" alt="ritesh singh coding" src="https://giphy.com/gifs/4N5ddOOJJ7gtKTgNac](https://tenor.com/en-GB/view/linux-tux-rotate-gif-24807752">
 
 
 | No. | Topic                                                                   |
