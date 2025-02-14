@@ -3,9 +3,8 @@
 ### Table of Contents
 
 ---
-<div style="margin-top: 20px;">
-  <img align="right" width="400" alt="ritesh singh coding" src="https://media.tenor.com/X6oLkn9sBewAAAAi/sparklepandalana-penguin.gif">
-</div>
+<img align="right" width="1" height="20" src="https://via.placeholder.com/1x1.png?text=+" style="visibility:hidden;">
+<img align="right" width="400" alt="ritesh singh coding" src="https://media.tenor.com/X6oLkn9sBewAAAAi/sparklepandalana-penguin.gif">
 
 | No. | Topic                                                                   |
 | --- | ----------------------------------------------------------------------- |
