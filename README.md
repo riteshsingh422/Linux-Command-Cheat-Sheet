@@ -21,6 +21,8 @@
 | 13  | [**History Command**](#History-Command)                                 |
 | 14  | [**Curl Command**](#Curl-Command)                                       |
 
+<img align="right" width="400" alt="ritesh singh coding" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
 ### User Information
 
 1. **who** It is used to get information about currently logged in user on to system. If you don't provide any option or arguments, the command displays the following information for each logged-in user.
