@@ -3,7 +3,7 @@
 ### Table of Contents
 
 ---
-<img align="right" width="400" alt="ritesh singh coding" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="right" width="400" alt="ritesh singh coding" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif">
 
 | No. | Topic                                                                   |
 | --- | ----------------------------------------------------------------------- |
