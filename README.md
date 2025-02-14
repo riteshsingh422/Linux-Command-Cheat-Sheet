@@ -3,7 +3,7 @@
 ### Table of Contents
 
 ---
-<img align="right" width="400" margin-top="50%" alt="ritesh singh coding" src="https://media.tenor.com/X6oLkn9sBewAAAAi/sparklepandalana-penguin.gif">
+<img align="right" width="400" alt="ritesh singh coding" src="https://media.tenor.com/X6oLkn9sBewAAAAi/sparklepandalana-penguin.gif">
 
 | No. | Topic                                                                   |
 | --- | ----------------------------------------------------------------------- |
