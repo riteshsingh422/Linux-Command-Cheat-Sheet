@@ -1,9 +1,5 @@
 # Linux-Command-Cheat-Sheet
 
-# Linux-cheat-sheet
-
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
-
 ### Table of Contents
 
 ---
@@ -36,14 +32,14 @@
 
    ```bash
    $ who
-   sudheer :0 2019-08-04 01:21 (:0)
+   ritesh :0 2019-08-04 01:21 (:0)
    ```
 
 2. **whoami:** It display the system’s username
 
    ```bash
    $ whoami
-   sudheer
+   ritesh
    ```
 
 3. **id:** It display the user identification(the real and effective user and group IDs) information
