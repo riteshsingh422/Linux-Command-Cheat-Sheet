@@ -3,7 +3,7 @@
 ### Table of Contents
 
 ---
-<img align="right" width="400" alt="ritesh singh coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam41aWx6cWtrMHFzMHdvbHlhNTdqbjR6MzZmYTlrNWx0N2Q4anRlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4N5ddOOJJ7gtKTgNac/giphy.gif">
+<img align="right" width="400" alt="ritesh singh coding" src="https://media.tenor.com/X6oLkn9sBewAAAAi/sparklepandalana-penguin.gif">
 
 | No. | Topic                                                                   |
 | --- | ----------------------------------------------------------------------- |
