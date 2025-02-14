@@ -2,10 +2,7 @@
 
 ### Table of Contents
 
----
-| <!-- Empty cell for spacing --> | <!-- Empty cell for spacing --> |
-|---------------------------------|---------------------------------|
-| <img align="right" width="400" alt="ritesh singh coding" src="https://media.tenor.com/X6oLkn9sBewAAAAi/sparklepandalana-penguin.gif"> | <!-- Empty cell --> |
+<img align="right" width="400" alt="ritesh singh coding" src="https://media.tenor.com/X6oLkn9sBewAAAAi/sparklepandalana-penguin.gif">
 
 | No. | Topic                                                                   |
 | --- | ----------------------------------------------------------------------- |
