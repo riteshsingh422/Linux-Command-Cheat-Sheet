@@ -3,7 +3,6 @@
 ### Table of Contents
 
 ---
-<img src="https://via.placeholder.com/1x50/ffffff/ffffff" width="1" height="50"><br>
 
 <img align="right" width="400" alt="ritesh singh coding" src="https://media.tenor.com/X6oLkn9sBewAAAAi/sparklepandalana-penguin.gif">
 
