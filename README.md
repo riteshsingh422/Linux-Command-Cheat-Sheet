@@ -3,9 +3,7 @@
 ### Table of Contents
 
 ---
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imraja594&label=Profile%20views&color=0e75b6&style=flat" alt="imraja594" /> </p>
-
+<img align="right" width="400" alt="ritesh singh coding" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 | No. | Topic                                                                   |
 | --- | ----------------------------------------------------------------------- |
