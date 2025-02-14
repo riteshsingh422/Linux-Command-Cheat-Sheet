@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" width="400" alt="ritesh singh coding" src="[https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif](https://giphy.com/gifs/4N5ddOOJJ7gtKTgNac)">
+<img align="right" width="400" alt="ritesh singh coding" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 
 | No. | Topic                                                                   |
